@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxPageScrolled", "RxPageScrolled\RxPageScrolled.csproj", "{FB213B3C-1D60-408F-AA46-7D15A0CD98AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB213B3C-1D60-408F-AA46-7D15A0CD98AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB213B3C-1D60-408F-AA46-7D15A0CD98AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB213B3C-1D60-408F-AA46-7D15A0CD98AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB213B3C-1D60-408F-AA46-7D15A0CD98AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
